@@ -12,7 +12,7 @@ functionality and designed web interfaces that interact with APIs in a user-frie
   position: Software Engineer/Developer
   duration: Jun, 2020 &mdash; Mar, 2023
   summary: Collect and resolve user-reported issues, ensuring code quality aligns with project specifications. Diagnose, debug, and enhance existing software. Proficient in API development, particularly for web applications. Proficient in conducting unit testing across multiple operating systems, including Windows and Fedora.
-  <ul class="resume-item-list"><li>Judicial Case Management System – Front-end development using the Angular 8 framework.</li><li>Timesheet Application - Engaged as a full-stack developer, working with technologies including Angular 10, Node.js 16, ExpressJS and MySQL in the design.</li><li>Debezium - Crafted a Java-based Kafka Producer and Consumer Application and rigorously tested it. This involved unit testing with MySQL as the source
+  <ul class="resume-item-list"><li>Judicial Case Management System- Front-end development using the Angular 8 framework.</li><li>Timesheet Application - Engaged as a full-stack developer, working with technologies including Angular 10, Node.js 16, ExpressJS and MySQL in the design.</li><li>Debezium - Crafted a Java-based Kafka Producer and Consumer Application and rigorously tested it. This involved unit testing with MySQL as the source
 database and Oracle as the target database, with testing performed on both Windows and Fedora operating systems.</li></ul>
 
 
