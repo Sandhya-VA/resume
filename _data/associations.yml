@@ -1,15 +1,68 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: PETA
-  role: Volunteer
-  year: 2001 &mdash; 2010
-  url: https://www.peta.org/
-  summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
+- organization: “Overview of Geoprocessing using Python”
+  role: offered by ISRO-Indian Institute of Remote Sensing.
+  # year: 2001 &mdash; 2010
+  # url: https://www.peta.org/
+  # summary: Organized fund drives and participated in fundraising events for the benefit of PETA's local Springfield operations.
 
+- organization: "Python 101 for Data science"
+  role: powered by Cognitive class and IBM Developer Skills Network.
+  # year: 2002 &mdash; 2004
+  # url: http://campuspress.yale.edu/amnesty/
+  # summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
 
-- organization: Yale Amnesty International
-  role: Communications coordinator
-  year: 2002 &mdash; 2004
-  url: http://campuspress.yale.edu/amnesty/
-  summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+- organization: "Google cloud skill badges"
+  role: Quicklabs profile
+  # year: 2002 &mdash; 2004
+  url: https://www.cloudskillsboost.google/public_profiles/0f1beeee-b612-467c-a85c-8ab83cff288b
+  # summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+
+- organization: "Java Internship Certification"
+  role: by Qspiders
+  # year: 2002 &mdash; 2004
+  # url: http://campuspress.yale.edu/amnesty/
+  # summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+
+- organization: "The project titled "CROSSWORD GAME"
+  role: Code like Corporate (CLC) 2018 Certificate, powered by Zestech Global
+  # year: 2002 &mdash; 2004
+  # url: http://campuspress.yale.edu/amnesty/
+  # summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+
+- organization: "Programming Foundation: Object-Oriented Design"
+  role: offered by LinkedIn Learning
+  # year: 2002 &mdash; 2004
+  # url: http://campuspress.yale.edu/amnesty/
+  # summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped facilitate our student organization communications through website maintenance, writing for our campus publication, and graphic design of related materials.
+
+- organization: "Java certification online course"
+  role: by Skill UP Simplilearn
+  # year: 2002 &mdash; 2004
+  # url: http://campuspress.yale.edu/amnesty/
+  # summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped f
+
+- organization: Published paper titled "IoT Based Real-time Video Surveillance using Raspberry pi"
+  role: in IJSPR in NCETCSE-2017
+  # year: 2002 &mdash; 2004
+  # url: http://campuspress.yale.edu/amnesty/
+  # summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped f
+
+- organization: Certification of publication of "Secure search over encrypted data using multi-cloud"
+  role: in IJTRE
+  # year: 2002 &mdash; 2004
+  # url: http://campuspress.yale.edu/amnesty/
+  # summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped f
+
+- organization: Teaching underprivileged children in both academics, personal skills and communication development
+  role: at U&I (NGO/NPO), Bangalore, India.
+  # year: 2002 &mdash; 2004
+  # url: http://campuspress.yale.edu/amnesty/
+  # summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped f
+
+- organization: Hewlett Packard Enterprise Software Engineering Job Simulation
+  role:  on Forage.
+  # year: 2002 &mdash; 2004
+  url: https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Hewlett%20Packard%20Enterprise%20/da2T3WZCbMAJD7bNB_Hewlett%20Packard%20Enterprise_r9sQ6HZBHc6oLAhTg_1703234567209_completion_certificate.pdf
+  # summary: During my junion and senior years at Yale, I was actively involved in Yale Amnesty International where I helped f
