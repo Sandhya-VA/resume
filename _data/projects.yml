@@ -13,13 +13,13 @@
   # url: "#"
   description: The web application, developed with PHP, JavaScript, and MySQL, excels in providing top-notch online services to both customers and banks. Its high level of automation, security, and user-friendliness contribute to its exceptional efficiency.
 
-project: DUAL WINDOW IMPLEMENTATION
+- project: DUAL WINDOW IMPLEMENTATION
   role: COMPUTER GRAPHICS
   duration: Jun-2018
   # url: "#"
   description: Implemented a dual-window system for object selection through menus and applying rotations to them. This C code sample serves as an illustration of utilizing OpenGL, with the incorporation of the 'GLUT' library.
 
-project: CAFE COFFEE DAY BILLING SYSTEM
+- project: CAFE COFFEE DAY BILLING SYSTEM
   role: DATABASE MANAGEMENT SYSTEM
   duration: Nov-2017
   # url: "#"
