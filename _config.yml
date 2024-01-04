@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Sandhya Venkataramaiah"
-resume_title:                   "Master's in Computer Student at Vanderbilt UNiversity"
+resume_title:                   "Master's in Computer Science Student"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "sandhya.venkataramaiah@vanderbilt.edu"
@@ -20,7 +20,7 @@ resume_contact_email:           "sandhya.venkataramaiah@vanderbilt.edu"
 resume_contact_telephone:       "669(287)-8646"
 resume_contact_address:         "Nashville, Tennesse"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+# resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
 resume_header_intro: "<p>As an experienced candidate and dedicated master's student, I am actively seeking a challenging internship opportunity where I can apply my academic knowledge and acquired practical experience in the field of Software Development. Possessing a solid skill set that includes Angular, Node.js, Express.js, RESTful API Design, HTML/CSS, MySQL, MsSQL, JavaScript, Java, Typescript and Python, I am enthusiastic about joining a dynamic team to contribute my expertise and continuous to enhance my professional skills through practical, real-world experience.</p>"

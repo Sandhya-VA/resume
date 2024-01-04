@@ -1,16 +1,26 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: SECURE SEARCH OVER ENCRYPTED DATA IN MULTICLOUD
+  role: CLOUD COMPUTING
+  duration: Jun-2019
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Addressed and successfully resolved the complex issue of preserving privacy while conducting ranked searches on encrypted cloud data, known as MRSE. Additionally, established a comprehensive set of stringent privacy prerequisites for the realization of a secure cloud data utilization system. From various multi-keyword semantics options, we opted for the efficient "coordinate matching" principle.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: ONLINE BANK
+  role: WEB TECHNOLOGY
+  duration: Jun-2018
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: The web application, developed with PHP, JavaScript, and MySQL, excels in providing top-notch online services to both customers and banks. Its high level of automation, security, and user-friendliness contribute to its exceptional efficiency.
+
+project: DUAL WINDOW IMPLEMENTATION
+  role: COMPUTER GRAPHICS
+  duration: Jun-2018
+  # url: "#"
+  description: Implemented a dual-window system for object selection through menus and applying rotations to them. This C code sample serves as an illustration of utilizing OpenGL, with the incorporation of the 'GLUT' library.
+
+project: CAFE COFFEE DAY BILLING SYSTEM
+  role: DATABASE MANAGEMENT SYSTEM
+  duration: Nov-2017
+  # url: "#"
+  description: Developed a coffee shop billing software that includes a product and service catalog, facilitates customer bill generation ba sed on their orders, and manages the coffee shop's inventory. This software was built using VB .Net, VB6, and MySQL.
